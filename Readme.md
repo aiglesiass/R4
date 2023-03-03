@@ -1,8 +1,7 @@
 
-# Gobierno de APIs
+# Metodologái APIs
 
-El Gobierno de APIs, como bien su nombre lo dice, trata de _administrar_, mediante lineamientos ya especificados, la manera más óptima y segura de implementar los productos API dentro del banco.
-
+Repositorio donde se recopile la el marco normativo del banco 
 
 ## Visión general
 
